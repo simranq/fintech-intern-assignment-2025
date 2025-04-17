@@ -28,9 +28,24 @@ This project demonstrates a **fully working website** built with **Next.js**, fe
 - **README.txt**:
   - Comprehensive documentation explaining how to set up, run, and test the project locally or in a deployed environment.
 
+## Installation
+
+   Install the required packages:
+   ```bash
+   npm install
+
 ## Bonus Features
 - Added **animations and transitions** for a polished and dynamic user experience.
 - Utilized **Tailwind CSS components** effectively to ensure a clean and consistent UI.
+
+# My Creative Journey
+
+Using AI tools alongside platforms like Behance and Dribbble has been both inspiring and empowering:
+
+- **AI Tools:** These have streamlined my workflow, allowing me to focus on creativity while saving time on tedious tasks.
+- **Behance & Dribbble:** Browsing these platforms showcases global talent and sparks innovative ideas, pushing me to experiment and grow.
+
+Together, they've fostered a positive and innovative environment that fuels my creative endeavors.
 
 ## How to Run the Project
 
@@ -38,8 +53,15 @@ This project demonstrates a **fully working website** built with **Next.js**, fe
    ```bash
    git clone https://github.com/simranq/fintech-intern-assignment-2025.git
 
-2. Live Link
-  https://fintech-intern-assignment-2025-xu8z.vercel.app/
+2. Navigate to the project folder and start the application
+  ```bash
+  cd fintech-intern-assignment-2025
+  npm install
+  npm start
+
+3. Live Link
+
+  You can access the live version of the project [here](https://fintech-intern-assignment-2025-xu8z.vercel.app/)
 
 
 ![image](https://github.com/user-attachments/assets/66e72630-0af8-49dd-898f-1d5507decb03)
