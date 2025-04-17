@@ -1,4 +1,5 @@
-# Persona Management Website
+# ![image](https://github.com/user-attachments/assets/4b5381e8-8007-48d1-a499-bde4515cba23)
+Persona Management Website
 
 This project demonstrates a **fully working website** built with **Next.js**, featuring seamless frontend and backend integration along with **Supabase** for database management. The key aspects of the project are:
 
