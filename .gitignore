@@ -1,14 +1,14 @@
 # Node modules
-node_modules/
+/frontend/node_modules/
 
 # Environment variables
-.env.local
+/frontend/.env.local
 .env.development.local
 .env.test.local
 .env.production.local
 
 # Build output
-.next/
+/frontend/.next/
 out/
 
 # Logs
