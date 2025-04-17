@@ -37,7 +37,12 @@ This project demonstrates a **fully working website** built with **Next.js**, fe
 1. Clone the repository:
    ```bash
    git clone https://github.com/simranq/fintech-intern-assignment-2025.git
+
 2. Live Link
+  https://fintech-intern-assignment-2025-xu8z.vercel.app/
+
+
+![image](https://github.com/user-attachments/assets/66e72630-0af8-49dd-898f-1d5507decb03)
 
 ## Screenshots
 
